@@ -11,7 +11,7 @@ Progress
 update github.........
 
 Monday 10:40am
-Tuesday
+Tuesday 09:50am
 Wednesday
 Thursday
 Friday
